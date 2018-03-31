@@ -3,4 +3,4 @@
 set -e
 
 bundle exec jekyll build
-gem build jekyll-design.gemspec
+gem build jekyll_design.gemspec
