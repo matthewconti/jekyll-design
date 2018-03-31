@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name          = "jekyll-design"
-  s.version       = "0.1.0"
+  s.version       = "0.0.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["M","Random Name"]
-  s.email         = ["m123@github.com"]
-  s.homepage      = "https://github.com/m123"
+  s.authors       = ["Matthew Conti"]
+  s.email         = ["matthewconti@github.com"]
+  s.homepage      = "https://github.com/matthewconti/jekyll-design/"
   s.summary       = "jekyll-design"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
