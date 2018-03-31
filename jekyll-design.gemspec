@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-design"
+  s.name          = "jekyll_design"
   s.version       = "0.0.0"
   s.license       = "CC0-1.0"
   s.authors       = ["Matthew Conti"]
